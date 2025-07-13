@@ -1,0 +1,5 @@
+{
+  "OrderID": "order_id",
+  "OrderDate": "order_date",
+  "CustomerName": "customer_name"
+}

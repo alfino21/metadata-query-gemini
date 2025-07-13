@@ -1,0 +1,4 @@
+schema_name,table_name,column_name,data_type
+sales,orders,OrderID,int
+sales,orders,OrderDate,datetime
+sales,customers,CustomerName,string
