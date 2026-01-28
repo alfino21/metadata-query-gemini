@@ -1,5 +1,24 @@
 {
   "OrderID": "order_id",
   "OrderDate": "order_date",
-  "CustomerName": "customer_name"
+  "CustomerID": "customer_id",
+  "CustomerName": "customer_name",
+  "CustomerEmail": "customer_email",
+  "ProductID": "product_id",
+  "ProductName": "product_name",
+  "Price": "price",
+  "Stock": "stock",
+  "WarehouseID": "warehouse_id",
+  "Location": "location",
+  "Capacity": "capacity",
+  "InventoryID": "inventory_id",
+  "Quantity": "quantity",
+  "EmployeeID": "employee_id",
+  "FirstName": "first_name",
+  "LastName": "last_name",
+  "DepartmentID": "department_id",
+  "DepartmentName": "department_name",
+  "InvoiceID": "invoice_id",
+  "Amount": "amount",
+  "InvoiceDate": "invoice_date"
 }
